@@ -1,9 +1,8 @@
 ### Read Me - NFT Collection Project
 
 #### Project Title
-**NFT Collection Manager**
-
-#### Description
+NFT Collection Manager
+Description
 
 The **NFT Collection Manager** is a JavaScript-based project designed to simulate a simplified NFT (Non-Fungible Token) minting and management system. This project creates an array of NFT objects, each containing essential metadata, and includes functions for minting new NFTs, listing them, and calculating the total supply of NFTs created.
 
